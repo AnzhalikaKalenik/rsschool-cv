@@ -49,3 +49,19 @@ My name is Anzhelika, I'm 28 years old. I am currently on maternity leave. Work 
 </script>
 ```
 ***  
+
+## __Education__  
+ 
+* Belarusian State Academy of Communications  
+    + faculty of telecommunications  
+* International University "MITSO"  
+    + Faculty of International Economic Relations and Management  
+* IT Academy  
+    + website development using HTML, CSS and JavaScript  
+***  
+
+
+## __Languages__  
+  
+* Russian - native speaker  
+* English - A2  
