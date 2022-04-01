@@ -22,3 +22,30 @@ My name is Anzhelika, I'm 28 years old. I am currently on maternity leave. Work 
 *Java Script(базовый)  
 *Git/GitHub  
 ***  
+
+## __Code examples__  
+  
+```
+<script>
+
+    var b = [ 5, 7,
+                  [ 4, [ 2 ], 8, [ 1,3 ], 2 ],
+                  [ 9, [ ]  ],
+                  1, 8
+                  ];    
+ 
+    function treeSum (a){
+        var sum=0;
+        for (var i=0; i<a.length; i++){
+    if (typeof a[i]=='number')
+        sum+=a[i];
+    else 
+        sum+=treeSum (a[i]); //Recursion - calling a function to itself
+    }
+    return sum;
+}
+
+ console.log(treeSum (b));
+</script>
+```
+***  
