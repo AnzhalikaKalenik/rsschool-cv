@@ -1,0 +1,40 @@
+.cv{
+    display: flex;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.avatar{
+    height: 230px;
+    width: 160px;
+    margin-top: 60px;
+    margin-left: 25%;
+    border-radius: 80px;
+}
+.column1{
+    width: 36%;
+    background-color:#4682B4;
+    
+}
+.column2{
+    width: 62%;
+    padding-left: 5%;
+}
+a{
+    color: white;
+}
+.column1 h2{
+    text-align: center;
+    padding-top: 40px;
+    color: white;
+}
+.contact{
+    text-align: center;
+    color: white;
+}
+.skills{
+    color: white;
+}
+.classification{
+    color: grey;
+    font-weight: 700;
+}
